@@ -28,14 +28,23 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Explored IAM groups: EC2-Admin, EC2-Support, S3-Support  
 - Inspected managed and inline policies attached to groups  
 **Screenshot:**  
-(Add screenshot here)
+<img width="1919" height="1199" alt="Screenshot 2026-10-21 200305" src="https://github.com/user-attachments/assets/73ed85a9-12d4-424d-987b-24d9e4f85726" />
+
+
 
 ### Task 2: Add Users to Groups
 - Added user-1 to the S3-Support group  
 - Added user-2 to the EC2-Support group  
 - Added user-3 to the EC2-Admin group  
-**Screenshot:**  
-(Add screenshot here)
+**Screenshot:**
+  <img width="1919" height="1199" alt="Screenshot 2026-10-21 195732" src="https://github.com/user-attachments/assets/d88045af-41ca-454d-a626-452fec8d3790" />
+
+
+  <img width="1919" height="1199" alt="Screenshot 2026-10-21 200004" src="https://github.com/user-attachments/assets/7114bf66-7eca-485a-b2bf-5236e97fca4d" />
+
+
+  <img width="1904" height="983" alt="Screenshot 2026-10-14 141503" src="https://github.com/user-attachments/assets/2a5ff148-921b-471d-a59c-eb563b48b4ce" />
+
 
 ### Task 3: Test IAM User Permissions
 - Logged in using IAM sign-in URL  
@@ -43,7 +52,16 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Verified EC2 read-only access for user-2  
 - Verified EC2 administrative access for user-3  
 **Screenshot:**  
-(Add screenshot here)
+<img width="1919" height="1196" alt="Screenshot 2026-10-21 200118" src="https://github.com/user-attachments/assets/08ee9f46-efcb-4deb-a941-02e4aef5aeed" />
+
+
+<img width="1919" height="1199" alt="Screenshot 2026-10-21 200223" src="https://github.com/user-attachments/assets/35f3a0c5-9c0f-41f4-96fc-09cf71a529de" />
+
+
+<img width="1919" height="1199" alt="Screenshot 2026-10-21 200053" src="https://github.com/user-attachments/assets/1c336114-9634-49d6-bccb-d45a7ac485bf" />
+
+
+<img width="1919" height="1199" alt="Screenshot 2026-10-21 200305" src="https://github.com/user-attachments/assets/235c6019-c6ea-4a10-8801-1936ee1694a0" />
 
 
 ## Workflow
@@ -66,6 +84,6 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** Your Name and (Reg No)
+**Name:** **SIVAPRASATH R(212224243007)**
 **Course:** Introduction to Cloud Computing  
 
